@@ -34,13 +34,12 @@ Describe any challenges encountered while building the app:
 
 #### BONUS
 - [x] (2pt) User can view the app on various device sizes and orientations.
-
-<img src="https://media.giphy.com/media/PedGkp7krIM0QWM3Pr/giphy.gif" width=250><br>
-
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 <img src="https://media.giphy.com/media/R07IHklFVsTIYmD4La/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/PedGkp7krIM0QWM3Pr/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/2cGdqFf2EnktUTsccC/giphy.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
